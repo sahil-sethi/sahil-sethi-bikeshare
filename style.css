@@ -1,0 +1,33 @@
+        #userForm {
+          background-color: lightgrey;
+          padding: 10px;
+          margin: 0px;
+        }
+
+        #userAddressInput {
+          width: 700px;
+        }
+
+        #container {
+            width: 100%;
+        }
+
+        #map {
+          	height: 650px;
+        }
+
+        .stAddress1 {
+			     font-weight: bold;
+        }
+
+        table {
+          font-family: Arial;
+        }
+
+        th {
+          background-color: lightgrey;
+        }
+
+        tr:nth-child(odd) {
+        	background-color: #DFF0D8;
+        }
